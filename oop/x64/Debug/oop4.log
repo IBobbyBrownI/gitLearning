@@ -1,0 +1,6 @@
+﻿  oop4.cpp
+C:\Users\vladi\OneDrive\Desktop\study\labs\OOP\lab 4 (done)\oop4\oop4.cpp(34,44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladi\OneDrive\Desktop\study\labs\OOP\lab 4 (done)\oop4\oop4.cpp(38,44): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladi\OneDrive\Desktop\study\labs\OOP\lab 4 (done)\oop4\oop4.cpp(60,44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vladi\OneDrive\Desktop\study\labs\OOP\lab 4 (done)\oop4\oop4.cpp(64,44): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  oop4.vcxproj -> C:\Users\vladi\OneDrive\Desktop\study\labs\OOP\lab 4 (done)\x64\Debug\oop4.exe
